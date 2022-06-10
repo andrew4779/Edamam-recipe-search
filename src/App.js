@@ -11,7 +11,7 @@ function App() {
   const [alert, setAlert] = useState("");
 
   const APP_ID = "88cbee33";
-  const APP_KEY = "9b904d703fa0d46a88ce1ac63f29f498";
+  const APP_KEY = "c94b5ec0fe2beb0877dafeda515bfcba	";
 
   const url = `https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`;
 
@@ -62,6 +62,3 @@ function App() {
 
 export default App;
 
-// "predeploy": "npm run build",
-// "deploy": "gh-pages -d build",
-// "homepage": "https://PriyanshuSaxena2612.github.io//Recipe-App",
