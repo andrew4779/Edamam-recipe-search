@@ -7,6 +7,7 @@
   text-decoration: none;
   list-style-type: none;
   outline: none;
+
 }
 
 html {
@@ -17,14 +18,14 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #1C0B19;
+  background-color: hsl(248, 37%, 24%);
 }
 
 h1 {
   font-size: 8rem;
   letter-spacing: 0.5rem;
   color: #475841;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin: 4rem 0;
 }
 
@@ -34,7 +35,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #3685B5;
+  background-color: #a8bbad;
   border-radius: 0.5rem;
   margin-bottom: 5rem;
   box-shadow: 0 0 2rem white;
@@ -66,7 +67,7 @@ h1 {
   border-bottom: 0.1rem solid #ccc;
   margin: 0 0.5rem;
   border-radius: 0.5rem;
-  height: 3rem;
+  height: 2.5rem;
 }
 
 .search-form input[type="text"] {
@@ -97,11 +98,11 @@ h1 {
   margin: 3rem;
   display: flex;
   flex-direction: column;
-  background-color: #3685B5;
-  padding: 2rem;
+  background-color: #2be6d6;
+  padding: 0rem;
   position: relative;
-  border-radius: 0.5rem;
-  box-shadow: 0rem 0rem 2rem white;
+  border-radius: 5rem;
+  box-shadow: 0rem 0rem 0rem white;
 }
 
 .recipe h2 {
