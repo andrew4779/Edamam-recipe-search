@@ -2,7 +2,7 @@
   "name": "food-search-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrew4779.github.io/Edamam-recipe-app",
+  "homepage": "https://andrew4779.github.io/food-seach-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
